@@ -112,6 +112,6 @@ Some projects are simplified demo implementations created for portfolio purposes
 
 📧 Email: vikalpthakur297@gmail.com
 
-🔗 LinkedIn: 
+🔗 LinkedIn: https://www.linkedin.com/in/vikalpmonas
 
 🔗 GitHub: https://github.com/VikalpMonas
