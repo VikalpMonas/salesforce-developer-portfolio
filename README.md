@@ -2,13 +2,13 @@
 
 Welcome to my Salesforce Developer portfolio repository.
 
-This repository showcases my hands-on experience in Salesforce Development, DevOps automation, CI/CD support, data migration, and Lightning Web Components (LWC).
+This repository showcases hands-on Salesforce Development projects focused on Apex, Lightning Web Components (LWC), DevOps automation, CI/CD workflows, and data management.
 
 ---
 
 # 👨‍💻 About Me
 
-Salesforce Developer with 2.6 years of experience in Salesforce Administration, DevOps, and data management.
+Salesforce Developer with 2.6 years of experience in Salesforce Administration, DevOps support, deployment workflows, and data management.
 
 Experienced in:
 - Apex Development
@@ -33,6 +33,8 @@ Automation solution that identifies modified Apex classes and automatically atta
 - Reduced manual effort during deployment preparation
 - Improved CI/CD validation readiness
 - Automated Apex test class mapping
+  
+**Technologies:** Python, GitHub Actions, CI/CD, Salesforce DX
 
 🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/pr-testclass-automation
 
@@ -47,6 +49,8 @@ Automation script for creating Salesforce users with predefined roles, profiles,
 - Standardized user provisioning
 - Reduced manual configuration effort
 
+**Technologies:** Node.js, Apex, Salesforce CLI (SFDX)
+
 🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/user-creation-automation
 
 ---
@@ -59,6 +63,8 @@ Salesforce Lightning Web Component (LWC) project to manage Account records using
 - LWC-based UI
 - Apex controller integration
 - SOQL-driven record retrieval
+
+**Technologies:** LWC, Apex, SOQL, Salesforce DX
 
 🔗 Repository: https://github.com/VikalpMonas/lwc-account-management
 
@@ -92,7 +98,7 @@ Salesforce Lightning Web Component (LWC) project to manage Account records using
 
 # 📸 Project Screenshots
 
-Screenshots and demo outputs will be added soon.
+Sample outputs and sanitized demo implementations are included within the project repositories.
 
 ---
 
