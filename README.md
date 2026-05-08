@@ -36,7 +36,7 @@ Automation solution that identifies modified Apex classes and automatically atta
   
 **Technologies:** Python, GitHub Actions, CI/CD, Salesforce DX
 
-🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/pr-testclass-automation
+🔗 Repository: [PR Test Class Automation](https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/pr-testclass-automation)
 
 ---
 
@@ -51,7 +51,7 @@ Automation script for creating Salesforce users with predefined roles, profiles,
 
 **Technologies:** Node.js, Apex, Salesforce CLI (SFDX)
 
-🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/user-creation-automation
+🔗 Repository: [User Creation Automation](https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/user-creation-automation)
 
 ---
 
