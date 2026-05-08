@@ -34,7 +34,7 @@ Automation solution that identifies modified Apex classes and automatically atta
 - Improved CI/CD validation readiness
 - Automated Apex test class mapping
 
-🔗 Repository: *(Add automation repo link later)*
+🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/pr-testclass-automation
 
 ---
 
@@ -47,7 +47,7 @@ Automation script for creating Salesforce users with predefined roles, profiles,
 - Standardized user provisioning
 - Reduced manual configuration effort
 
-🔗 Repository: *(Add automation repo link later)*
+🔗 Repository: https://github.com/VikalpMonas/salesforce-automation-scripts/tree/main/user-creation-automation
 
 ---
 
@@ -60,7 +60,7 @@ Salesforce Lightning Web Component (LWC) project to manage Account records using
 - Apex controller integration
 - SOQL-driven record retrieval
 
-🔗 Repository: *(Add LWC repo link later)*
+🔗 Repository: https://github.com/VikalpMonas/lwc-account-management
 
 ---
 
