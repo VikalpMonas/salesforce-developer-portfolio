@@ -66,7 +66,7 @@ Salesforce Lightning Web Component (LWC) project to manage Account records using
 
 **Technologies:** LWC, Apex, SOQL, Salesforce DX
 
-🔗 Repository: https://github.com/VikalpMonas/lwc-account-management
+🔗 Repository: [LWC Account Management](https://github.com/VikalpMonas/lwc-account-management)
 
 ---
 
